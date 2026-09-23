@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -O3 -march=native -ffast-math -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/stage3_c2_wta_brain.dir/src/stage3_c2_wta_brain/c2_wta_node.cpp.o -o stage3_c2_wta_brain   -L/opt/homebrew/lib  -L/usr/local/lib  -Wl,-rpath,/opt/homebrew/lib -Wl,-rpath,/usr/local/lib -lzmq -lpthread

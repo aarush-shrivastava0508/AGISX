@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/nirajsingh/Desktop/AGISX/build",
+  "command": "/usr/bin/c++  -I/Users/nirajsingh/Desktop/AGISX/src/common -I/opt/homebrew/include -I/opt/homebrew/include/eigen3 -I/usr/local/include -I/usr/local/include/eigen3 -O3 -DNDEBUG -O3 -march=native -ffast-math -std=c++20 -arch arm64 -o CMakeFiles/stage1_threat_gen.dir/src/stage1_threat_gen/threat_generator_node.cpp.o -c /Users/nirajsingh/Desktop/AGISX/src/stage1_threat_gen/threat_generator_node.cpp",
+  "file": "/Users/nirajsingh/Desktop/AGISX/src/stage1_threat_gen/threat_generator_node.cpp",
+  "output": "CMakeFiles/stage1_threat_gen.dir/src/stage1_threat_gen/threat_generator_node.cpp.o"
+},
+{
+  "directory": "/Users/nirajsingh/Desktop/AGISX/build",
+  "command": "/usr/bin/c++  -I/Users/nirajsingh/Desktop/AGISX/src/common -I/opt/homebrew/include -I/opt/homebrew/include/eigen3 -I/usr/local/include -I/usr/local/include/eigen3 -O3 -DNDEBUG -O3 -march=native -ffast-math -std=c++20 -arch arm64 -o CMakeFiles/stage2_ekf_tracker.dir/src/stage2_ekf_tracker/ekf_tracker_node.cpp.o -c /Users/nirajsingh/Desktop/AGISX/src/stage2_ekf_tracker/ekf_tracker_node.cpp",
+  "file": "/Users/nirajsingh/Desktop/AGISX/src/stage2_ekf_tracker/ekf_tracker_node.cpp",
+  "output": "CMakeFiles/stage2_ekf_tracker.dir/src/stage2_ekf_tracker/ekf_tracker_node.cpp.o"
+},
+{
+  "directory": "/Users/nirajsingh/Desktop/AGISX/build",
+  "command": "/usr/bin/c++  -I/Users/nirajsingh/Desktop/AGISX/src/common -I/opt/homebrew/include -I/opt/homebrew/include/eigen3 -I/usr/local/include -I/usr/local/include/eigen3 -O3 -DNDEBUG -O3 -march=native -ffast-math -std=c++20 -arch arm64 -o CMakeFiles/stage3_c2_wta_brain.dir/src/stage3_c2_wta_brain/c2_wta_node.cpp.o -c /Users/nirajsingh/Desktop/AGISX/src/stage3_c2_wta_brain/c2_wta_node.cpp",
+  "file": "/Users/nirajsingh/Desktop/AGISX/src/stage3_c2_wta_brain/c2_wta_node.cpp",
+  "output": "CMakeFiles/stage3_c2_wta_brain.dir/src/stage3_c2_wta_brain/c2_wta_node.cpp.o"
+},
+{
+  "directory": "/Users/nirajsingh/Desktop/AGISX/build",
+  "command": "/usr/bin/c++  -I/Users/nirajsingh/Desktop/AGISX/src/common -I/opt/homebrew/include -I/opt/homebrew/include/eigen3 -I/usr/local/include -I/usr/local/include/eigen3 -O3 -DNDEBUG -O3 -march=native -ffast-math -std=c++20 -arch arm64 -o CMakeFiles/stage4_kinetic_ppn.dir/src/stage4_kinetic_ppn/interceptor_guidance_node.cpp.o -c /Users/nirajsingh/Desktop/AGISX/src/stage4_kinetic_ppn/interceptor_guidance_node.cpp",
+  "file": "/Users/nirajsingh/Desktop/AGISX/src/stage4_kinetic_ppn/interceptor_guidance_node.cpp",
+  "output": "CMakeFiles/stage4_kinetic_ppn.dir/src/stage4_kinetic_ppn/interceptor_guidance_node.cpp.o"
+}
+]

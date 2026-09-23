@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -O3 -march=native -ffast-math -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/stage1_threat_gen.dir/src/stage1_threat_gen/threat_generator_node.cpp.o -o stage1_threat_gen   -L/opt/homebrew/lib  -L/usr/local/lib  -Wl,-rpath,/opt/homebrew/lib -Wl,-rpath,/usr/local/lib -lzmq -lpthread

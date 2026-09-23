@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -O3 -march=native -ffast-math -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/stage2_ekf_tracker.dir/src/stage2_ekf_tracker/ekf_tracker_node.cpp.o -o stage2_ekf_tracker   -L/opt/homebrew/lib  -L/usr/local/lib  -Wl,-rpath,/opt/homebrew/lib -Wl,-rpath,/usr/local/lib -lzmq -lpthread

@@ -1,0 +1,6 @@
+/Users/nirajsingh/Desktop/AGISX/build/CMakeFiles/stage1_threat_gen.dir
+/Users/nirajsingh/Desktop/AGISX/build/CMakeFiles/stage2_ekf_tracker.dir
+/Users/nirajsingh/Desktop/AGISX/build/CMakeFiles/stage3_c2_wta_brain.dir
+/Users/nirajsingh/Desktop/AGISX/build/CMakeFiles/stage4_kinetic_ppn.dir
+/Users/nirajsingh/Desktop/AGISX/build/CMakeFiles/edit_cache.dir
+/Users/nirajsingh/Desktop/AGISX/build/CMakeFiles/rebuild_cache.dir
