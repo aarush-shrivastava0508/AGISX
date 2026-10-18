@@ -17,6 +17,7 @@ include_directories(
     /opt/homebrew/include/eigen3
     /usr/local/include
     /usr/local/include/eigen3
+    /usr/include/eigen3
 )
 
 link_directories(

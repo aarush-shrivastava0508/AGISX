@@ -1,0 +1,7 @@
+build_local/
+.cache/
+*.bak
+data/trajectories/*.csv
+__pycache__/
+*.pyc
+.vscode/
